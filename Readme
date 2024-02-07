@@ -1,0 +1,5 @@
+how to set up:
+1. go to your project directory
+2. install npm ```npm install```
+3. run ```npm test```
+all of the unit test are in merge.test.ts
